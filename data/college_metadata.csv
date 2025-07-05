@@ -1,0 +1,82 @@
+institute_name,institute_type,city,state,city_tier,hostel_available
+IIT Kharagpur,IIT,Kharagpur,West Bengal,3,Y
+IIT Bombay,IIT,Bombay,Maharashtra,1,Y
+IIT Kanpur,IIT,Kanpur,Uttar Pradesh,2,Y
+IIT Madras,IIT,Chennai,Tamil Nadu,1,Y
+IIT Delhi,IIT,Delhi,Delhi,1,Y
+IIT Guwahati,IIT,Guwahati,Assam,2,Y
+IIT Roorkee,IIT, Roorkee,Uttarakhand,2,Y
+IIT Jodhpur,IIT,Jodhpur,Rajasthan,2,Y
+IIT Ropar,IIT,Ropar,Punjab,2,Y
+IIT Gandhinagar,IIT,Gandhinagar,Gujarat,2,Y
+IIT Hyderabad,IIT,Hyderabad,Telangana,1,Y
+IIT Patna,IIT,Patna,Bihar,2,Y
+IIT Bhubaneswar,IIT,Bhubaneswar,Odisha,2,Y
+IIT Mandi,IIT,Mandi,Himachal Pradesh,3,Y
+IIT Indore,IIT,Indore,Madhya Pradesh,2,Y
+IIT (BHU) Varanasi,IIT,Varanasi,Uttar Pradesh,2,Y
+IIT Palakkad,IIT,Palakkad,Kerala,3,Y
+IIT Tirupati,IIT,Tirupati,Andhra Pradesh,2,Y
+IIT (ISM) Dhanbad,IIT,Dhanbad,Jharkhand,2,Y
+IIT Bhilai,IIT,Bhilai,Chhattisgarh,2,Y
+IIT Dharwad,IIT,Dharwad,Karnataka,2,N
+IIT Jammu,IIT,Jammu,Jammu and Kashmir,2,Y
+IIT Goa,IIT,Goa,Goa,2,Y
+NIT Karnataka,NIT,Surathkal,Karnataka,3,Y
+NIT Warangal,NIT,Warangal,Telangana,2,Y
+NIT Bhopal,NIT,Bhopal,Madhya Pradesh,2,Y
+IIEST Shibpur,NIT,Shibpur,West Bengal,2,Y
+NIT Nagpur,NIT,Nagpur,Maharashtra,2,Y
+NIT Durgapur,NIT,Durgapur,West Bengal,2,Y
+NIT Jamshedpur,NIT,Jamshedpur,Jharkhand,2,Y
+NIT Srinagar,NIT,Srinagar,Jammu and Kashmir,2,Y
+NIT Allahabad,NIT,Prayagraj,Uttar Pradesh,2,Y
+NIT Surat,NIT,Surat,Gujarat,1,Y
+NIT Calicut,NIT,Kozhikode,Kerala,2,Y
+NIT Rourkela,NIT,Rourkela,Odisha,2,Y
+NIT Jaipur,NIT,Jaipur,Rajasthan,1,Y
+NIT Kurukshetra,NIT,Kurukshetra,Haryana,2,Y
+NIT Tiruchirappalli,NIT,Tiruchirappalli,Tamil Nadu,2,Y
+NIT Silchar,NIT,Silchar,Assam,3,Y
+NIT Hamirpur,NIT,Hamirpur,Himachal Pradesh,2,Y
+NIT Jalandhar,NIT,Jalandhar,Punjab,2,Y
+NIT Patna,NIT,Patna,Bihar,1,Y
+NIT Raipur,NIT,Raipur,Chhattisgarh,2,Y
+NIT Agartala,NIT,Agartala,Tripura,3,Y
+NIT Arunachal Pradesh,NIT,Yupia,Arunachal Pradesh,3,Y
+NIT Delhi,NIT,New Delhi,Delhi,1,Y
+NIT Goa,NIT,Cuncolim,Goa,3,Y
+NIT Manipur,NIT,Imphal,Manipur,3,Y
+NIT Meghalaya,NIT,Shillong,Meghalaya,3 ,Y
+NIT Mizoram,NIT,Aizawl,Mizoram,3,Y
+NIT Nagaland,NIT,Chümoukedima,Nagaland,3,Y
+NIT Puducherry,NIT,Karaikal,Puducherry,3,Y
+NIT Sikkim,NIT,Ravangla,Sikkim,3,Y
+NIT Uttarakhand,NIT,"Srinagar, Uttarakhand",Uttarakhand,3,Y
+NIT Andhra Pradesh,NIT,Tadepalligudem,Andhra  Pradesh,3,Y
+ABV-IIITMG,IIIT,Gwalior,Madhya Pradesh,2,Y
+IIITA,IIIT,Prayagraj,Uttar Pradesh,2,Y
+IIITDMJ,IIIT,Jabalpur,Madhya Pradesh,2,Y
+IIITDM Kancheepuram,IIIT,Chennai,Tamil Nadu,1,Y
+IIITS,IIIT,Sri City,Andhra Pradesh,3,N
+IIITG,IIIT,Guwahati,Assam,2,Y
+IIITV,IIIT,Vadodara,Gujarat,2,Y
+IIIT Kota,IIIT,Kota,Rajasthan,2,Y
+IIITT,IIIT,Tiruchirappalli,Tamil Nadu,2,Y
+IIITDWD,IIIT,Dharwad,Karnataka,3,Y
+IIITU,IIIT,Una,Himachal Pradesh,3,Y
+IIIT Sonepat,IIIT,Sonepat,Haryana,2,N
+IIIT Kalyani,IIIT,Kalyani,West Bengal,3,Y
+IIITL,IIIT,Lucknow,Uttar Pradesh,2,Y
+IIITDM Kurnool,IIIT,Kurnool,Andhra Pradesh,3,Y
+IIIT Kottayam,IIIT,Kottayam,Kerala,3,Y
+IIITM,IIIT,Imphal,Manipur,3,Y
+IIITN,IIIT,Nagpur,Maharashtra,2,Y
+IIITP,IIIT,Pune,Maharashtra,1,Y
+IIIT Ranchi,IIIT,Ranchi,Jharkhand,2,Y
+IIIT Surat,IIIT,Surat,Gujarat,1,N
+IIIT Bhopal,IIIT,Bhopal,Madhya Pradesh,2,Y
+IIIT Bhagalpur,IIIT,Bhagalpur,Bihar,3,Y
+IIIT Agartala,IIIT,Agartala,Tripura,3,Y
+IIIT Raichur,IIIT,Raichur,Karnataka,3,Y
+IIIT VICD,IIIT,Diu,Diu,3,Y
