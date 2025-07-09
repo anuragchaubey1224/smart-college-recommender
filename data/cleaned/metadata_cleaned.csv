@@ -1,0 +1,82 @@
+institute_name,institute_type,city,state,city_tier,total_fee_4yr,total_fee_5yr,hostel_available,campus_area,infra_rating,campus_status,offers_5yr_program
+IIT Kharagpur,IIT,Kharagpur,West Bengal,3,1065980,1118000.0,True,2100.0,4.8,Available,True
+IIT Bombay,IIT,Bombay,Maharashtra,1,882500,2383000.0,True,550.0,4.9,Available,True
+IIT Kanpur,IIT,Kanpur,Uttar Pradesh,2,918880,1077000.0,True,1055.0,4.7,Available,True
+IIT Madras,IIT,Chennai,Tamil Nadu,1,938668,939000.0,True,620.0,4.8,Available,True
+IIT Delhi,IIT,Delhi,Delhi,1,862550,1233000.0,True,350.0,4.9,Available,True
+IIT Guwahati,IIT,Guwahati,Assam,2,903700,904000.0,True,704.0,4.9,Available,True
+IIT Roorkee,IIT,Roorkee,Uttarakhand,2,887000,1049000.0,True,365.0,4.8,Available,True
+IIT Jodhpur,IIT,Jodhpur,Rajasthan,2,1033000,255000.0,True,852.0,4.8,Available,True
+IIT Ropar,IIT,Ropar,Punjab,2,1003000,948000.0,True,545.0,4.5,Available,True
+IIT Gandhinagar,IIT,Gandhinagar,Gujarat,2,879454,1000000.0,True,450.0,4.8,Available,True
+IIT Hyderabad,IIT,Hyderabad,Telangana,1,942552,2250000.0,True,576.0,4.9,Available,True
+IIT Patna,IIT,Patna,Bihar,2,999250,1000000.0,True,501.0,4.2,Available,True
+IIT Bhubaneswar,IIT,Bhubaneswar,Odisha,2,905560,1128000.0,True,936.0,4.3,Available,True
+IIT Mandi,IIT,Mandi,Himachal Pradesh,3,825000,1071000.0,True,538.0,4.1,Available,True
+IIT Indore,IIT,Indore,Madhya Pradesh,2,881000,1440000.0,True,501.0,4.7,Available,True
+IIT (BHU) Varanasi,IIT,Varanasi,Uttar Pradesh,2,835000,1041000.0,True,1300.0,4.2,Available,True
+IIT Palakkad,IIT,Palakkad,Kerala,3,905960,1000000.0,True,500.0,4.0,Available,True
+IIT Tirupati,IIT,Tirupati,Andhra Pradesh,2,881680,882000.0,True,539.0,3.9,Available,True
+IIT (ISM) Dhanbad,IIT,Dhanbad,Jharkhand,2,1201000,1038000.0,True,458.0,4.6,Available,True
+IIT Bhilai,IIT,Bhilai,Chhattisgarh,2,929000,1319000.0,True,447.0,4.1,Available,True
+IIT Dharwad,IIT,Dharwad,Karnataka,2,919000,1131000.0,False,470.0,4.0,Available,True
+IIT Jammu,IIT,Jammu,Jammu and Kashmir,2,1060000,1069000.0,True,400.0,4.0,Available,True
+IIT Goa,IIT,Goa,Goa,2,852568,1000000.0,True,320.0,4.0,Available,True
+NIT Karnataka,NIT,Surathkal,Karnataka,3,797000,0.0,True,296.0,4.9,Available,False
+NIT Warangal,NIT,Warangal,Telangana,2,543000,640000.0,True,248.0,4.8,Available,True
+NIT Bhopal,NIT,Bhopal,Madhya Pradesh,2,580000,766000.0,True,650.0,4.7,Available,True
+IIEST Shibpur,NIT,Shibpur,West Bengal,2,568000,739000.0,True,114.0,4.7,Available,True
+NIT Nagpur,NIT,Nagpur,Maharashtra,2,769000,0.0,True,215.26,4.6,Available,False
+NIT Durgapur,NIT,Durgapur,West Bengal,2,626000,0.0,True,187.0,4.6,Available,False
+NIT Jamshedpur,NIT,Jamshedpur,Jharkhand,2,628000,740000.0,True,343.0,4.5,Available,True
+NIT Srinagar,NIT,Srinagar,Jammu and Kashmir,2,743000,848000.0,True,67.0,4.5,Available,True
+NIT Allahabad,NIT,Prayagraj,Uttar Pradesh,2,788000,828000.0,True,222.0,4.6,Available,True
+NIT Surat,NIT,Surat,Gujarat,1,677000,745000.0,True,250.0,4.5,Available,True
+NIT Calicut,NIT,Kozhikode,Kerala,2,846000,760000.0,True,300.0,4.6,Available,True
+NIT Rourkela,NIT,Rourkela,Odisha,2,743000,743000.0,True,650.0,4.8,Available,True
+NIT Jaipur,NIT,Jaipur,Rajasthan,1,736000,725000.0,True,317.0,4.6,Available,True
+NIT Kurukshetra,NIT,Kurukshetra,Haryana,2,678000,691000.0,True,300.0,4.4,Available,True
+NIT Tiruchirappalli,NIT,Tiruchirappalli,Tamil Nadu,2,1062000,640000.0,True,800.0,4.7,Available,True
+NIT Silchar,NIT,Silchar,Assam,3,544000,826000.0,True,540.0,4.3,Available,True
+NIT Hamirpur,NIT,Hamirpur,Himachal Pradesh,2,794000,625000.0,True,320.0,4.2,Available,True
+NIT Jalandhar,NIT,Jalandhar,Punjab,2,656000,650000.0,True,154.0,4.3,Available,True
+NIT Patna,NIT,Patna,Bihar,1,723000,770000.0,True,36.0,4.1,Available,True
+NIT Raipur,NIT,Raipur,Chhattisgarh,2,646000,700000.0,True,100.0,4.2,Available,True
+NIT Agartala,NIT,Agartala,Tripura,3,680000,350000.0,True,366.0,4.0,Available,True
+NIT Arunachal Pradesh,NIT,Yupia,Arunachal Pradesh,3,539000,640000.0,True,301.0,3.9,Available,True
+NIT Delhi,NIT,New Delhi,Delhi,1,636000,720000.0,True,51.0,4.7,Available,True
+NIT Goa,NIT,Cuncolim,Goa,3,560000,640000.0,True,114.0,4.1,Available,True
+NIT Manipur,NIT,Imphal,Manipur,3,731000,640000.0,True,341.5,4.0,Available,True
+NIT Meghalaya,NIT,Shillong,Meghalaya,3,864000,760000.0,True,450.0,4.2,Available,True
+NIT Mizoram,NIT,Aizawl,Mizoram,3,752000,766000.0,True,190.0,4.1,Available,True
+NIT Nagaland,NIT,Chümoukedima,Nagaland,3,597000,660000.0,True,291.0,4.0,Available,True
+NIT Puducherry,NIT,Karaikal,Puducherry,3,836000,792000.0,True,256.0,4.3,Available,True
+NIT Sikkim,NIT,Ravangla,Sikkim,3,586000,586000.0,True,100.0,4.0,Available,True
+NIT Uttarakhand,NIT,"Srinagar, Uttarakhand",Uttarakhand,3,853000,660000.0,True,300.0,4.1,Available,True
+NIT Andhra Pradesh,NIT,Tadepalligudem,Andhra  Pradesh,3,545000,545000.0,True,172.6,4.0,Available,True
+ABV-IIITMG,IIIT,Gwalior,Madhya Pradesh,2,907000,790000.0,True,160.0,4.7,Available,True
+IIITA,IIIT,Prayagraj,Uttar Pradesh,2,844000,1536000.0,True,100.0,4.5,Available,True
+IIITDMJ,IIIT,Jabalpur,Madhya Pradesh,2,797000,0.0,True,260.0,4.8,Available,False
+IIITDM Kancheepuram,IIIT,Chennai,Tamil Nadu,1,1322000,1322000.0,True,51.75,4.6,Available,True
+IIITS,IIIT,Sri City,Andhra Pradesh,3,1775000,0.0,False,80.0,4.4,Available,False
+IIITG,IIIT,Guwahati,Assam,2,1343000,0.0,True,67.0,4.5,Available,False
+IIITV,IIIT,Vadodara,Gujarat,2,1580000,0.0,False,0.0,4.4,Under Construction,False
+IIIT Kota,IIIT,Kota,Rajasthan,2,1063000,0.0,True,100.37,4.3,Available,False
+IIITT,IIIT,Tiruchirappalli,Tamil Nadu,2,1067000,0.0,True,62.0,4.6,Available,False
+IIITDWD,IIIT,Dharwad,Karnataka,3,1630000,0.0,True,60.0,4.5,Available,False
+IIITU,IIIT,Una,Himachal Pradesh,3,1227000,0.0,True,80.0,4.3,Available,False
+IIIT Sonepat,IIIT,Sonepat,Haryana,2,821000,0.0,False,0.0,4.3,Under Construction,False
+IIIT Kalyani,IIIT,Kalyani,West Bengal,3,912000,0.0,False,0.0,4.4,Under Construction,False
+IIITL,IIIT,Lucknow,Uttar Pradesh,2,979000,0.0,True,50.0,4.4,Available,False
+IIITDM Kurnool,IIIT,Kurnool,Andhra Pradesh,3,913000,972000.0,True,151.0,4.5,Available,True
+IIIT Kottayam,IIIT,Kottayam,Kerala,3,1162000,0.0,True,53.0,4.5,Available,False
+IIITM,IIIT,Imphal,Manipur,3,1197000,0.0,False,0.0,4.2,Under Construction,False
+IIITN,IIIT,Nagpur,Maharashtra,2,1184000,0.0,True,100.0,4.3,Available,False
+IIITP,IIIT,Pune,Maharashtra,1,1200000,0.0,False,0.0,4.4,Under Construction,False
+IIIT Ranchi,IIIT,Ranchi,Jharkhand,2,1405000,0.0,False,0.0,4.2,Under Construction,False
+IIIT Surat,IIIT,Surat,Gujarat,1,937000,0.0,False,28.71,4.3,Available,False
+IIIT Bhopal,IIIT,Bhopal,Madhya Pradesh,2,720000,0.0,False,0.0,4.3,Under Construction,False
+IIIT Bhagalpur,IIIT,Bhagalpur,Bihar,3,1345000,0.0,True,50.0,4.3,Available,False
+IIIT Agartala,IIIT,Agartala,Tripura,3,811000,0.0,False,0.0,4.3,Under Construction,False
+IIIT Raichur,IIIT,Raichur,Karnataka,3,1093000,0.0,False,0.0,4.4,Under Construction,False
+IIIT VICD,IIIT,Diu,Diu,3,1234000,0.0,True,25.0,4.3,Available,False
